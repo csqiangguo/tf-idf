@@ -10,7 +10,7 @@ Brief Introduction
 
 tf-idf中文介绍：http://zh.wikipedia.org/wiki/TF-IDF
 
-tf-idf英文介绍：http://en.wikipedia.org/wiki/Tf%E2%80%93idf
+tf-idf英文介绍：http://en.wikipedia.org/wiki/Tf-idf
 
 Guide
 ======
